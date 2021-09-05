@@ -11,11 +11,11 @@ public class StackRemoveElement {
 		Stack<String> stk = new Stack<String>();
 
 		// Use add() method to add elements in the Stack
-		stk.add("parvathy");
-    	stk.add("hello");
-      	stk.add("welcome to");
-		stk.add("java");
-		stk.add("programming");
+		stk.add("Sharen");
+    	stk.add("Hello");
+      	stk.add("Welcome to");
+		stk.add("Java");
+		stk.add("Programming");
 		stk.add("10");
 		stk.add("20");
 
